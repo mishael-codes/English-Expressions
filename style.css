@@ -41,6 +41,7 @@ input {
 }
 
 #message {
+  position: relative;
   width: 70%;
   min-height: 200px;
   padding: 10px;
