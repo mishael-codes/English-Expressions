@@ -85,6 +85,7 @@ input:focus,
 @media (max-width: 900px) {
     #form{
         width: 100%;
-        height: auto;
+        height: 100vh;
+        padding: 10px;
     }
 }
